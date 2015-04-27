@@ -1,5 +1,3 @@
 first line of third text file - created on Tom's laptop during class.
 
 this line added on GitHub...whoo hooo!
-
-Made some changes - these are specific to the new branch!
